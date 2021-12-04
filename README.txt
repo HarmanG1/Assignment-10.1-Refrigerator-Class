@@ -47,6 +47,6 @@ Open program in desired environment.
 Edit any values of the main function if desired to try out different food and drink combos inside the refrigerator.
 Run the program and view the result.
 
-.
+
 
 
